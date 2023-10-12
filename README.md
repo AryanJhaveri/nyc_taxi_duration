@@ -1,4 +1,4 @@
-# nyc_taxi_duration
+# nyc_taxi_duration_analysis
 
 This repository contains the code for a Kaggle competition project focused on predicting the total ride duration of taxi trips in New York City.
 
